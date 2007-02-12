@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}_SelectFilter
 
 Summary:	%{_pearname} - dynamic filters on the client side for select elements
-Summary(pl):	%{_pearname} - dynamiczne filtry po stronie klienta dla pól wyboru
+Summary(pl.UTF-8):   %{_pearname} - dynamiczne filtry po stronie klienta dla pÃ³l wyboru
 Name:		php-pear-%{_pearname}
 Version:	1.0.0
 %define		_rc	RC1
@@ -30,10 +30,10 @@ the client side for select elements.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
+%description -l pl.UTF-8
 Klasa PEAR::HTML_QuickForm_SelectFilter dodaje do klasy
-PEAR::HTML_QuickForm element, który mo¿e byæ u¿yty do zdefiniowania
-dzia³aj±cych po stronie klienta dynamicznych filtrów pól wyboru.
+PEAR::HTML_QuickForm element, ktÃ³ry moÅ¼e byÄ‡ uÅ¼yty do zdefiniowania
+dziaÅ‚ajÄ…cych po stronie klienta dynamicznych filtrÃ³w pÃ³l wyboru.
 
 Ta klasa ma w PEAR status: %{_status}.
 
