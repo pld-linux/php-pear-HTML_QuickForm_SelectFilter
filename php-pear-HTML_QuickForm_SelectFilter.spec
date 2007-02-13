@@ -5,7 +5,7 @@
 %define		_pearname	%{_class}_%{_subclass}_SelectFilter
 
 Summary:	%{_pearname} - dynamic filters on the client side for select elements
-Summary(pl.UTF-8):   %{_pearname} - dynamiczne filtry po stronie klienta dla pól wyboru
+Summary(pl.UTF-8):	%{_pearname} - dynamiczne filtry po stronie klienta dla pól wyboru
 Name:		php-pear-%{_pearname}
 Version:	1.0.0
 %define		_rc	RC1
