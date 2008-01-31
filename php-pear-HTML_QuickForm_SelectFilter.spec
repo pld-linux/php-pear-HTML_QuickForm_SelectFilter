@@ -9,7 +9,7 @@ Summary(pl.UTF-8):	%{_pearname} - dynamiczne filtry po stronie klienta dla pól 
 Name:		php-pear-%{_pearname}
 Version:	1.0.0
 %define		_rc	RC1
-Release:	2
+Release:	3
 License:	PHP 2.02
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}%{_rc}.tgz
